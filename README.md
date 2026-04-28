@@ -17,5 +17,5 @@ Example: Method Overloading / Overriding
 4. 🧱 Abstraction
 Hiding implementation details and showing only essential features
 Achieved using abstract classes or interfaces
-💻 Languages Covered
+💻 Languages Covered.
 C++
