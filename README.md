@@ -14,7 +14,7 @@ Promotes code reusability
 3. 🔁 Polymorphism
 Ability of a function or method to behave differently in different situations.
 Example: Method Overloading / Overriding
-4. 🧱 Abstraction
+4. 🧱 Abstraction.
 Hiding implementation details and showing only essential features
 Achieved using abstract classes or interfaces
 💻 Languages Covered.cpp
